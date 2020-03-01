@@ -6,4 +6,4 @@ Git開発のテスト
 
 ## footer
 
-OK
+NG
